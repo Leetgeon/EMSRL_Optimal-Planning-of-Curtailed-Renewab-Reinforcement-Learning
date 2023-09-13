@@ -1,5 +1,9 @@
 <div style="display:flex; align-items: center;">
 
+# 한국화학공학회 2022년도 봄 총회 및 학술대회_화학공학의 뉴노멀을 선도하다: 지속가능성과 에너지_기계학습 학생 구두 발표_ https://www.kiche.or.kr/files/202204121.pdf 
+# Optimal Planning of Hybrid Energy Storage Systems using Curtailed Renewable Energy through Deep Reinforcement Learning_https://arxiv.org/pdf/2212.05662.pdf
+# 한국화학공학회 2022년 봄 학술대회_화학공학소재연구정보센터_동영상 135개 조회수 1,495회 최종 업데이트: 2022. 10.
+# https://youtube.com/playlist?list=PLAoNaLeYSkPu_hvSRSQUfNckz6AMrZ53b&si=UvCzeVOyBqOeQGWw
 # Optimal Planning of Hybrid Energy Storage Systems using Curtailed Renewable Energy through Deep Reinforcement Learning
 
 </div>
